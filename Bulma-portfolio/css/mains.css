@@ -1,0 +1,30 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    background-color:white;
+    color: black;
+    
+}
+nav{
+    background-color: white;
+}
+#logo{
+    background-image: linear-gradient(#560dcb,#dd5498);
+    height: fit-content;
+    width: max-content;
+    padding: 20px;
+    color: white;
+}
+.hero-body a{
+    padding-right: 10px;
+}
+h2 a{
+    color: #560dcb;
+}
+.blog-posts{
+    padding: 1rem;
+}
+
+article h3{
+   color: #dd5498; 
+}
