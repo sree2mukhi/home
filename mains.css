@@ -15,6 +15,9 @@ nav{
     padding: 20px;
     color: white;
 }
+.title b{
+    color: #560dcb;
+}
 .hero-body a{
     padding-right: 10px;
 }
